@@ -70,7 +70,7 @@ Each section includes **certificates** and **practical command-line exercises** 
 > - Working with GCC and compiling programs
 
 <div align="center">
-  <img src="Essentials of C Programming_week4/Certificates/introduction to c certificate.png" alt="C Programming Certificate" width="500">
+  <img src="Essentials_of_C_Programming_week4/Certificates/introduction to c certificate.png" alt="C Programming Certificate" width="500">
 </div>
 
 ---
@@ -82,12 +82,6 @@ Explore week-wise folders for full content:
 - 📁 [Week 1 - SDLC](./SDLC_week1/)
 - 📁 [Week 2 - Git](./Git_week2/)
 - 📁 [Week 3 - Linux](./Linux_week3/)
-- 📁 [Week 4 - C Programming](./Essentials of C Programming_week4/)
+- 📁 [Week 4 - C Programming](./Essentials_of_C_Programming_week4/)
 
 ---
-
-## ✍️ Author
-
-**Harshitha C M**  
-Student ID: 5183738  
-Proud to be learning and building skills with each passing week!
