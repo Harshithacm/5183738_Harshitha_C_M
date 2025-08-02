@@ -19,6 +19,7 @@
 <img src="Linux_week3/Linux_commands/Linux_commands_img_8.png" alt="Linux commands" width="500">
 <img src="Linux_week3/Linux_commands/Linux_commands_img_9.png" alt="Linux commands" width="500">
 <img src="Linux_week3/Linux_commands/Linux_commands_img_10.png" alt="Linux commands" width="500">
+<img src="Essentials of C Programming_week4/Certificates/introduction to c certificate.png" alt="certificate" width="500">
   
 </div>
 
