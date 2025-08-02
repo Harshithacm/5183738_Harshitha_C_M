@@ -70,7 +70,7 @@ Each section includes **certificates** and **practical command-line exercises** 
 > - Working with GCC and compiling programs
 
 <div align="center">
-  <img src="Essentials of C Programming_week4/Certificates/introduction to c certificate.png" alt="C Programming Certificate" width="500">
+  <img src="Essentials_of_C_Programming_week4/Certificates/introduction to c certificate.png" alt="C Programming Certificate" width="500">
 </div>
 
 ---
