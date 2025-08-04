@@ -68,9 +68,16 @@ Each section includes **certificates** and **practical command-line exercises** 
 > - Control flow: `if`, `switch`, `for`, `while`
 > - Use of preprocessor directives like `#include` and `#define`
 > - Working with GCC and compiling programs
+> - Pointers & pointer arithmetic
+> - Function
+> - Array & multi-dimensional arrays
+> - Dynamic memory allocation (malloc, calloc, realloc, free)
+> - Structure ,union& typedef
+> - File handling
 
 <div align="center">
   <img src="Essentials_of_C_Programming_week4/Certificates/introduction to c certificate.png" alt="C Programming Certificate" width="500">
+  <img src="Essentials_of_C_Programming_week4/Certificates/Intermediate_c.jpg" alt="C Programming Intermediate Certificate" width="500">
 </div>
 
 ---
