@@ -124,16 +124,16 @@ Each section includes **certificates** and **practical command-line exercises** 
   <img src="UnityFramework_week5/Test_case_images/unity_test3_img3.jpg" alt="Unityframework" width="500">
 
   <h2>Test 4</h2>
+  <img src="UnityFramework_week5/Test_case_images/unity_test4_img1.jpg" alt="Unityframework" width="500">
+  <img src="UnityFramework_week5/Test_case_images/unity_test4_img2.jpg" alt="Unityframework" width="500">
+
+  <h2>Test 5</h2>
   <img src="UnityFramework_week5/Test_case_images/unity_test5_img1.jpg" alt="Unityframework" width="500">
   <img src="UnityFramework_week5/Test_case_images/unity_test5_img2.jpg" alt="Unityframework" width="500">
 
-  <h2>Test 5</h2>
+  <h2>Test 6</h2>
   <img src="UnityFramework_week5/Test_case_images/unity_test6_img1.jpg" alt="Unityframework" width="500">
   <img src="UnityFramework_week5/Test_case_images/unity_test6_img2.jpg" alt="Unityframework" width="500">
-
-  <h2>Test 6</h2>
-  <img src="UnityFramework_week5/Test_case_images/unity_test7_img1.jpg" alt="Unityframework" width="500">
-  <img src="UnityFramework_week5/Test_case_images/unity_test7_img2.jpg" alt="Unityframework" width="500">
 
 </div>
 
