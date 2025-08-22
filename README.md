@@ -8,6 +8,8 @@ Welcome to my repository! This space documents my journey through:
 - 🛠️ Git and version control
 - 🐧 Linux command line
 - 💻 C programming fundamentals
+- 💻 Unity FrameWork
+- 🐧 HarkerRank
 
 Each section includes **certificates** and **practical command-line exercises** to demonstrate what I’ve learned.
 
@@ -38,14 +40,6 @@ Each section includes **certificates** and **practical command-line exercises** 
 
 ### ✅ Week 3 – Linux Command Line Practice
 
-> **Key Concepts Practiced:**
-> - Navigating the file system  
-> - Basic file operations (`ls`, `cp`, `mv`, `cat`, `rm`, etc.)  
-> - Viewing and editing files (`nano`, `head`, `tail`, `sort`, `cut`, `rev`)  
-> - Text processing using `grep`, `sed`, `awk`, and `tr`  
-> - Working with pipes, I/O redirection  
-> - Understanding system info (`uname`, `ps`, `wc`, etc.)
-
 📸 **Command execution screenshots:**
 
 <div align="center">
@@ -67,19 +61,6 @@ Each section includes **certificates** and **practical command-line exercises** 
 
 ### ✅ Week 4 – C Programming Essentials
 
-> **Topics Covered:**
-> - Structure of a C program  
-> - Variables and data types  
-> - Input/output operations  
-> - Control flow: `if`, `switch`, `for`, `while`  
-> - Use of preprocessor directives like `#include` and `#define`  
-> - Working with GCC and compiling programs  
-> - Pointers & pointer arithmetic  
-> - Function  
-> - Array & multi-dimensional arrays  
-> - Dynamic memory allocation (`malloc`, `calloc`, `realloc`, `free`)  
-> - Structure, union & typedef  
-> - File handling
 
 <div align="center">
 
@@ -92,21 +73,6 @@ Each section includes **certificates** and **practical command-line exercises** 
 
 ### ✅ Week 5 – Unity Framework
 
-> **Topics Covered:**
-> - Introduction to Unit Testing  
-> - Benefits of Unit Testing in Embedded and Systems Programming  
-> - Overview of Test-Driven Development (TDD)  
-> - Challenges of Unit Testing in C  
-> - Creating and Using Header/Source Files  
-> - Compilation and Linking Process  
-> - Writing and Using Makefiles  
-> - Targets, Dependencies, and Commands in Makefiles  
-> - Variables and Pattern Rules in Makefiles  
-> - Integrating Unity Tests in Multifile Projects using Makefiles  
-> - Unity Macros for Assertions (`TEST_ASSERT_EQUAL`, `TEST_ASSERT_TRUE`, etc.)  
-> - Testing Functions with Return Values, Pointers, Structures, and Arrays  
-> - Grouping and Organizing Tests  
-> - Using Test Fixtures (`setUp()` and `tearDown()`)
 
 <div align="center">
 
@@ -144,17 +110,5 @@ Each section includes **certificates** and **practical command-line exercises** 
   <h2> Problem_solving_basic certificate </h2>
   <img src="HakerRank/Certificates/problem_solving_basic certificate_page-0001.jpg" alt="certificate" width="500">
 </div>
-
----
-## 🧭 Navigation
-
-Explore week-wise folders for full content:
-
-- 📁 [Week 1 - SDLC](./SDLC_week1/)
-- 📁 [Week 2 - Git](./Git_week2/)
-- 📁 [Week 3 - Linux](./Linux_week3/)
-- 📁 [Week 4 - C Programming](./Essentials_of_C_Programming_week4/)
-- 📁 [Week 5 - UnityFramework](./UnityFramework_week5/)
-- 📁 [HakerRank](./HakerRank/)
 
 ---
