@@ -141,7 +141,7 @@ Each section includes **certificates** and **practical command-line exercises** 
 ### ✅ HakerRank 
 <div align="center">
 
-  <h2> roblem_solving_basic certificate </h2>
+  <h2> Problem_solving_basic certificate </h2>
   <img src="HakerRank/Certificates/problem_solving_basic certificate_page-0001.jpg" alt="certificate" width="500">
 </div>
 
